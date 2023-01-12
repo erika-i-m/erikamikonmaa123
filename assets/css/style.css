@@ -6,7 +6,11 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 }
 
 h1{
-
+    margin-top: 10px;
+    margin-left: 5px;
+    font-size: 25px;
+    font-style: italic bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 
