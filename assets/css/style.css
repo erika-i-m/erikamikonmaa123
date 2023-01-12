@@ -12,7 +12,7 @@ h1{
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #609d9f;
-    color: hsl(0, 0%, 66%);
+    color: hwb(0 0% 96%);
 }
 
 p{
