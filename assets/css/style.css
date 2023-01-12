@@ -1,5 +1,5 @@
 body{
-background-color: beige;
+background-color: #f5f5db;
 font-size: 14px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -11,11 +11,13 @@ h1{
     font-size: 25px;
     font-style: italic bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: cadetblue;
+    background-color: #609d9f;
+    color: hsl(0, 0%, 66%);
 }
 
-
 p{
+
+    
 
 
 }
