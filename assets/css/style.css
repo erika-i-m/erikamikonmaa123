@@ -1,5 +1,5 @@
 body{
-background-color: #f5f5db;
+background-color: hsla(46, 80%, 73%, 0.986);
 font-size: 14px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -12,7 +12,7 @@ h1{
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #609d9f;
-    color: hwb(0 0% 96%);
+    color: hsl(25, 80%, 8%);
 }
 
 p{
@@ -25,15 +25,32 @@ p{
 img{
 padding: 10px;
 border: 1px solid rgb(rgb(255, 0, 0), green, 255,0,0);
-
-
 }
+
 
 
 figure{
-
+    position: relative;
+    width: 334px;
+    height: 180px;
+    background-color: rgb(127, 127, 127);
 
 }
+
+figcaption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 24px;
+    height: 180px;
+    line-height: 24px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+    color: hsl(251, 56%, 42%);
+    text-transform: uppercase;
+    writing-mode: vertical-rl;
+    }
 
 
 .warning{
