@@ -14,19 +14,19 @@ h1{
     font-size: 16px;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #609d9f;
+    background-color: rgb(252, 252, 252);
     color: rgb(255, 0, 0);
 }
 
 li{
+    color: rgb(255, 0, 0);  
+}
 
-    
+a:hover{
+    color: rgb(0, 0, 255)
 }
 
 p{
-
-    
-
 
 }
 
