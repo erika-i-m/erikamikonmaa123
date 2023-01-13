@@ -1,18 +1,26 @@
 body{
-background-color: hsla(46, 80%, 73%, 0.986);
+background-color: hwb(46 51% 5% / 0.986);
 font-size: 14px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
 
 h1{
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: rgb(255, 0, 0);
     margin-top: 10px;
     margin-left: 5px;
-    font-size: 25px;
+    font-size: 16px;
     font-style: italic;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #609d9f;
-    color: hsl(25, 80%, 8%);
+    color: rgb(255, 0, 0);
+}
+
+li{
+
+    
 }
 
 p{
