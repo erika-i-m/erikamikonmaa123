@@ -22,7 +22,7 @@ li{
     color: rgb(255, 0, 0);  
 }
 
-a:hover{
+a.hrf:hover{
     color: rgb(0, 0, 255)
 }
 
