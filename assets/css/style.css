@@ -32,7 +32,9 @@ p{
 
 img{
 padding: 10px;
-border: 1px solid rgb(rgb(255, 0, 0), green, 255,0,0);
+width: 250px;
+opacity:0.5;
+border: 1px solid rgb(255, 0, 0);
 }
 
 
@@ -55,9 +57,9 @@ figcaption {
     font-size: 13px;
     font-weight: bold;
     text-align: center;
-    color: hsl(251, 56%, 42%);
+    color: rgb(69, 47, 167);
     text-transform: uppercase;
-    writing-mode: vertical-rl;
+    writing-mode:horizontal-tb;
     }
 
 
