@@ -28,25 +28,4 @@ border: 1px solid rgb(255, 0, 0);
 
 
 
-figure{
-    position: relative;
-    width: 334px;
-    height: 180px;
-    background-color:hsla(325, 56%, 84%, 0.986);
 
-}
-
-figcaption {
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 24px;
-    height: 180px;
-    line-height: 24px;
-    font-size: 13px;
-    font-weight: bold;
-    text-align: center;
-    color: rgb(69, 47, 167);
-    text-transform: uppercase;
-    writing-mode:horizontal;
-    }
