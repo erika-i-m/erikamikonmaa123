@@ -1,5 +1,5 @@
 body{
-background-color: hwb(46 51% 5% / 0.986);
+background-color: hsla(325, 56%, 84%, 0.986);
 font-size: 14px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
@@ -13,17 +13,9 @@ h1{
     margin-left: 5px;
     font-size: 16px;
     font-style: italic;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: rgb(252, 252, 252);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(238, 255, 198);
     color: rgb(255, 0, 0);
-}
-
-a.hrf{
-    color: rgb(255, 0, 0);  
-}
-
-a.hrf:hover{
-    color: rgb(0, 0, 255)
 }
 
 
@@ -40,7 +32,7 @@ figure{
     position: relative;
     width: 334px;
     height: 180px;
-    background-color: rgb(127, 127, 127);
+    background-color:hsla(325, 56%, 84%, 0.986);
 
 }
 
