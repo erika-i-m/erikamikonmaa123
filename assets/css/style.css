@@ -25,6 +25,7 @@ opacity:0.5;
 border: 1px solid rgb(255, 0, 0);
 display: block;
 margin-right: auto;
+
 }
 
 .link{
@@ -35,3 +36,7 @@ margin-right: auto;
     color: rgb(0, 0, 255);
 }
 
+figcaption{
+    display: block;
+    margin-right: auto;
+}
