@@ -17,16 +17,17 @@ h1{
     color: rgb(255, 0, 0);
 }
 
+img{
+    border: 1px solid rgb(255, 0, 0);
+    padding: 10px;
+    width: 250px;
+    opacity:0.5;
+}
 
 img.Suurennuslasi{
-padding: 10px;
-width: 250px;
-opacity:0.5;
-border: 1px solid rgb(255, 0, 0);
 display: block;
 margin-right: auto;
 background-color:hwb(44 45% 5% / 0.986);
-
 }
 
 a{
