@@ -38,6 +38,5 @@ a:hover{
 }
 
 figcaption{
-    display: block;
-    margin-right: auto;
+  float: right;
 }
