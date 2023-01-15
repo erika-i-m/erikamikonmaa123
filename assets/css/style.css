@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(218, 212, 241);
+    background-color: hsl(51, 82%, 85%);
     font-size: 14px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
@@ -13,7 +13,7 @@ h1{
     font-size: 16px;
     font-style: italic;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(252, 210, 231);
+    background-color: #f0dae5;
     color: rgb(255, 0, 0);
 }
 
@@ -21,7 +21,8 @@ img{
     border: 1px solid rgb(255, 0, 0);
     padding: 10px;
     width: 250px;
-    opacity: 0.5;  
+    height: 400px;
+    opacity: 0.5; 
     
 }
 
@@ -34,6 +35,6 @@ a:hover{
 }
 
 figcaption{
-  float: right;
+    float: right;
 }
 
