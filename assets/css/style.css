@@ -36,3 +36,6 @@ figcaption{
     float: right;
 }
 
+main{
+    display: flex;
+}
