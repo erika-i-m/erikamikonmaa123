@@ -1,0 +1,32 @@
+body{
+    background-color: hsl(60, 56%, 91%);
+}
+
+header{
+    background-color: rgb(247, 200, 204);
+
+}
+
+footer{
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(208, 100%, 97%);
+}
+
+.red{
+    background-color: brown;
+}
+
+footer{
+    text-align: center;
+    height: 70px;
+}
+
+.column1{
+    background-color: hsl(271, 76%, 53%);
+}
+.column2{
+    background-color: hsl(314, 76%, 53%);
+}
+.column3{
+    background-color: hsl(61, 76%, 53%);
+}
